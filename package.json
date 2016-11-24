@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "lint": "./node_modules/.bin/eslint src/*.js",
-    "prepush": "npm lint"
+    "prepush": "npm run lint"
   },
   "repository": {
     "type": "git",
