@@ -2,6 +2,10 @@ const a = 3;
 const b = 4;
 const c = 5;
 
-const d = 'hauhuhuahfusadhfuashfuashfasufhasufhasufhasufsahfuashfuashfuasfhsaufhasufashufashu';
+// const d = 'hauhuhuahfusadhfuashfuashfasufhasufhasufhasufsahfuashfuashfuasfhsaufhasufashufashu';
 
-console.log(a, b, c, d);
+function sum() {
+  return a + b + c;
+}
+
+sum();
