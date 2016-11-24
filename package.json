@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Library of course JS with TDD in pratice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardosouza/js-tdd-course.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Leonardo Souza <leonardodisouza@gmail.com> (http://www.leonardosouza.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leonardosouza/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/leonardosouza/js-tdd-course#readme"
+}
